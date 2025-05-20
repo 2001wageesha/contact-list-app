@@ -14,10 +14,7 @@ A simple Android application built with Kotlin to manage a list of contacts. Use
 
 ---
 
-
----
-
-## Tech Stack
+## Technologies Used
 
 - **Kotlin**
 - **Android SDK**
